@@ -1,0 +1,9 @@
+torch
+numpy
+jupyterlab
+matplotlib
+pandas
+scikit-learn
+tqdm
+datasets
+tokenizers
